@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: 'Static Single Page React App Template',
-    description: 'Built with React, MDbootstrap, and Gatsby',
-    siteUrl: 'https://example.com',
-    author: 'jacob-cavazos'
+    title: 'limitlessmatrix',
+    description: 'Built with React, MDbootstrap, and Gatsby from jacob-cavazos theme',
+    siteUrl: 'https://limitlessmatrix.com',
+    author: 'jeremy-retamar-arrieta'
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -28,14 +28,14 @@ module.exports = {
         short_name: `MDBReact Template`,
         start_url: `/`,
         display: `standalone`,
-        icon: 'src/images/icon.png'
+        icon: 'src/images/binary-vortex.jpg'
       }
     },
     {
       resolve: 'gatsby-plugin-robots-txt',
       options: {
-        host: 'https://www.example.com',
-        sitemap: 'https://www.example.com/sitemap.xml',
+        host: 'https://limitlessmatrix.com',
+        sitemap: 'https://limitlessmatrix.com/sitemap.xml',
         policy: [{ userAgent: '*', allow: '/' }]
       }
     }

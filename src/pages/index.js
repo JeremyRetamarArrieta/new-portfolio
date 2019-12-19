@@ -9,7 +9,7 @@ import FooterPage from '../components/FooterPage'
 const IndexPage = () => (
   <div>
     <Helmet>
-      <title>MDBootstrap React Template</title>
+      <title>Jeremy's Portfolio Site</title>
       <meta
         name="description"
         content="Static single page web app template built with React, MDBootstrap, and Gatsby"
