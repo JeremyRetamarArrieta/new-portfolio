@@ -29,21 +29,21 @@ const SkillsPage = () => {
                   <div>
                     <h3 className="py-3 font-weight-bold">
                       <strong>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit
+                        Cloud infrasctuture, Security Groups, Building Relational and Non-Relational Databases, Forms, and Designing User-Interfaces.
                       </strong>
                     </h3>
                     <h5 className="pb-3">
                       <p>
-                           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget nulla at velit varius finibus. Pellentesque porttitor faucibus felis, quis aliquet odio mattis vitae. Donec at convallis nisi. Vestibulum nec sagittis quam. Donec at suscipit odio. Duis pulvinar placerat dolor. Ut eget gravida dolor. Duis malesuada bibendum nunc ut viverra. Vivamus pellentesque risus sit amet sem convallis, et pulvinar lectus venenatis. Quisque nisl diam, cursus sit amet tristique vitae, hendrerit non enim. Vivamus orci orci, laoreet ut justo eu, rutrum aliquet velit. Curabitur ac mattis libero. Etiam ac dolor metus. Curabitur nec est quis libero placerat sodales. Quisque consectetur ante metus, in suscipit urna vehicula id. Integer nec laoreet nulla.
+                           Most of my experience has been with Firebase, and MongoDB. I also taught myself mySQL and schema building.
                         </p>
                         <p>
-                           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget nulla at velit varius finibus. Pellentesque porttitor faucibus felis, quis aliquet odio mattis vitae. Donec at convallis nisi. Vestibulum nec sagittis quam. Donec at suscipit odio. Duis pulvinar placerat dolor. Ut eget gravida dolor. Duis malesuada bibendum nunc ut viverra. Vivamus pellentesque risus sit amet sem convallis, et pulvinar lectus venenatis. Quisque nisl diam, cursus sit amet tristique vitae, hendrerit non enim. Vivamus orci orci, laoreet ut justo eu, rutrum aliquet velit. Curabitur ac mattis libero. Etiam ac dolor metus. Curabitur nec est quis libero placerat sodales. Quisque consectetur ante metus, in suscipit urna vehicula id. Integer nec laoreet nulla.
+                           I have mainly used AWS for cloud services. I have been messing with some light project work with Azure and Google Cloud.
                         </p>
                         <p>
-                           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget nulla at velit varius finibus. Pellentesque porttitor faucibus felis, quis aliquet odio mattis vitae. Donec at convallis nisi. Vestibulum nec sagittis quam. Donec at suscipit odio. Duis pulvinar placerat dolor. Ut eget gravida dolor. Duis malesuada bibendum nunc ut viverra. Vivamus pellentesque risus sit amet sem convallis, et pulvinar lectus venenatis. Quisque nisl diam, cursus sit amet tristique vitae, hendrerit non enim. Vivamus orci orci, laoreet ut justo eu, rutrum aliquet velit. Curabitur ac mattis libero. Etiam ac dolor metus. Curabitur nec est quis libero placerat sodales. Quisque consectetur ante metus, in suscipit urna vehicula id. Integer nec laoreet nulla.
+                           I use React mostly for building User-Interfaces. I like Material-Ui, Gatsby and Reactstrap as frameworks. I will be adding more projects to show off my new skills. 
                         </p>
                         <p>
-                           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget nulla at velit varius finibus. Pellentesque porttitor faucibus felis, quis aliquet odio mattis vitae. Donec at convallis nisi. Vestibulum nec sagittis quam. Donec at suscipit odio. Duis pulvinar placerat dolor. Ut eget gravida dolor. Duis malesuada bibendum nunc ut viverra. Vivamus pellentesque risus sit amet sem convallis, et pulvinar lectus venenatis. Quisque nisl diam, cursus sit amet tristique vitae, hendrerit non enim. Vivamus orci orci, laoreet ut justo eu, rutrum aliquet velit. Curabitur ac mattis libero. Etiam ac dolor metus. Curabitur nec est quis libero placerat sodales. Quisque consectetur ante metus, in suscipit urna vehicula id. Integer nec laoreet nulla.
+                           I like back-end applications as well. Mostly I've used Javascript to build everything but I do know some Python and will be adding a project that has a Python back-end and a Javascript front-end to prove I can use both.
                         </p>
                     </h5>
                   </div>
@@ -54,35 +54,7 @@ const SkillsPage = () => {
         </MDBRow>
         <MDBRow>
           <MDBCol className="mb-4">
-            <Animation reveal type="slideInRight" duration="350ms">
-              <MDBCard
-                className="card-image img-fluid"
-                style={{ backgroundImage: 'url(' + card2 + ')' }}
-              >
-                <div className="text-white text-center d-flex align-items-center rgba-black-strong py-5 px-4 rounded">
-                  <div>
-                    <div>
-                      <h3 className="py-3 font-weight-bold">
-                        <strong>
-                          Lorem ipsum dolor sit amet, consectetur adipiscing elit
-                        </strong>
-                      </h3>
-                      <h5 className="pb-3">
-                        <p>
-                           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget nulla at velit varius finibus. Pellentesque porttitor faucibus felis, quis aliquet odio mattis vitae. Donec at convallis nisi. Vestibulum nec sagittis quam. Donec at suscipit odio. Duis pulvinar placerat dolor. Ut eget gravida dolor. Duis malesuada bibendum nunc ut viverra. Vivamus pellentesque risus sit amet sem convallis, et pulvinar lectus venenatis. Quisque nisl diam, cursus sit amet tristique vitae, hendrerit non enim. Vivamus orci orci, laoreet ut justo eu, rutrum aliquet velit. Curabitur ac mattis libero. Etiam ac dolor metus. Curabitur nec est quis libero placerat sodales. Quisque consectetur ante metus, in suscipit urna vehicula id. Integer nec laoreet nulla.
-                        </p>
-                        <p>
-                           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget nulla at velit varius finibus. Pellentesque porttitor faucibus felis, quis aliquet odio mattis vitae. Donec at convallis nisi. Vestibulum nec sagittis quam. Donec at suscipit odio. Duis pulvinar placerat dolor. Ut eget gravida dolor. Duis malesuada bibendum nunc ut viverra. Vivamus pellentesque risus sit amet sem convallis, et pulvinar lectus venenatis. Quisque nisl diam, cursus sit amet tristique vitae, hendrerit non enim. Vivamus orci orci, laoreet ut justo eu, rutrum aliquet velit. Curabitur ac mattis libero. Etiam ac dolor metus. Curabitur nec est quis libero placerat sodales. Quisque consectetur ante metus, in suscipit urna vehicula id. Integer nec laoreet nulla.
-                        </p>
-                        <p>
-                           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget nulla at velit varius finibus. Pellentesque porttitor faucibus felis, quis aliquet odio mattis vitae. Donec at convallis nisi. Vestibulum nec sagittis quam. Donec at suscipit odio. Duis pulvinar placerat dolor. Ut eget gravida dolor. Duis malesuada bibendum nunc ut viverra. Vivamus pellentesque risus sit amet sem convallis, et pulvinar lectus venenatis. Quisque nisl diam, cursus sit amet tristique vitae, hendrerit non enim. Vivamus orci orci, laoreet ut justo eu, rutrum aliquet velit. Curabitur ac mattis libero. Etiam ac dolor metus. Curabitur nec est quis libero placerat sodales. Quisque consectetur ante metus, in suscipit urna vehicula id. Integer nec laoreet nulla.
-                        </p>
-                      </h5>
-                    </div>
-                  </div>
-                </div>
-              </MDBCard>
-            </Animation>
+            
           </MDBCol>
         </MDBRow>
       </MDBContainer>

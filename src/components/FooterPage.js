@@ -41,14 +41,14 @@ class FooterPage extends React.Component {
           <MDBRow className="mt-3">
             <MDBCol md="4" className="mb-4">
               <h6 className="text-uppercase font-weight-bold">
-                <strong>yourdomainname.com</strong>
+                <strong>limitlessmatrix.com</strong>
               </h6>
               <hr
                 className="teal accent-1 mb-4 mt-0 d-inline-block mx-auto"
                 style={{ width: '165px' }}
               />
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget nulla at velit varius finibus. Pellentesque porttitor faucibus felis, quis aliquet odio mattis vitae. Donec at convallis nisi. Vestibulum nec sagittis quam.
+                I used a pre-made Gatsby theme to build this to save time since I am still working in other industrys while I try to get a programming job.
               </p>
             </MDBCol>
             <MDBCol md="2" className="mb-4">
@@ -60,15 +60,15 @@ class FooterPage extends React.Component {
                 style={{ width: '85px' }}
               />
               <p>
-                <a href="https://linkedin.com">
+                <a href="https://www.linkedin.com/in/jeremy-retamar-arrieta-63672785/">
                   My LinkedIn
                 </a>
               </p>
               <p>
-                <a href="https://github.com">My Github</a>
+                <a href="https://github.com/JeremyRetamarArrieta">My Github</a>
               </p>
               <p>
-                <a href="https://twitter.com">My Twitter</a>
+                <a href="https://twitter.com/RetamarArrieta">My Twitter</a>
               </p>
             </MDBCol>
             <MDBCol md="3" className="mb-4">
@@ -95,17 +95,17 @@ class FooterPage extends React.Component {
               />
               <p>
                 <i className="fa fa-envelope mr-3" />
-                <a href="mailto:admin@yourdomainname.com">admin@yourdomainname.com</a>
+                <a href="mailto:jeremyretamararrieta@gmail.com">jeremyretamararrieta@gmail.com</a>
               </p>
               <p>
-                <i className="fa fa-phone mr-3" /> +1 (210) 123-590
+                <i className="fa fa-phone mr-3" /> 801-815-4571
               </p>
             </MDBCol>
           </MDBRow>
         </MDBContainer>
         <div className="footer-copyright text-center py-3">
           <MDBContainer fluid>
-            <p>&copy; {new Date().getFullYear()} Copyright: Jacob Cavazos</p>
+            <p>&copy; {new Date().getFullYear()} Copyright: Jeremy Retamar Arrieta</p>
           </MDBContainer>
         </div>
       </MDBFooter>

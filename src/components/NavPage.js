@@ -10,7 +10,7 @@ import {
   Animation
 } from 'mdbreact'
 import { Link } from 'gatsby'
-import src1 from '../images/JC_v3_50px.png'
+import src1 from '../images/face.jpg'
 import TwitterModalPage from './TwitterModalPage'
 import BlogModalPage from './BlogModalPage'
 import ContactModalPage from './ContactModalPage'
@@ -54,7 +54,7 @@ class NavPage extends Component {
                     className="nav-link text-dark navbar-link hover"
                     rel="noopener noreferrer"
                     target="_blank"
-                    href="https://linkedin.com/"
+                    href="https://www.linkedin.com/in/jeremy-retamar-arrieta-63672785/"
                   >
                     <MDBIcon fab icon="linkedin" />
                   </a>
@@ -64,7 +64,7 @@ class NavPage extends Component {
                     className="nav-link text-dark navbar-link hover"
                     rel="noopener noreferrer"
                     target="_blank"
-                    href="https://github.com/"
+                    href="https://github.com/JeremyRetamarArrieta"
                   >
                     <MDBIcon fab icon="github" />
                   </a>
@@ -74,7 +74,7 @@ class NavPage extends Component {
                     className="nav-link text-dark navbar-link hover"
                     rel="noopener noreferrer"
                     target="_blank"
-                    href="https://twitter.com/"
+                    href="https://twitter.com/RetamarArrieta"
                   >
                     <MDBIcon fab icon="twitter" />
                   </a>

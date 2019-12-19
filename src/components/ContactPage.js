@@ -15,7 +15,7 @@ const ContactPage = () => {
     <section id="contact" className="my-5">
       <MDBContainer>
         <p className="text-center w-responsive mx-auto pb-5">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget nulla at velit varius finibus. Pellentesque porttitor faucibus felis, quis aliquet odio mattis vitae. Donec at convallis nisi.
+         There are plenty of ways to get in touch. If you like to contact me via email fill out your info.
         </p>
       </MDBContainer>
       <MDBContainer className="mx-auto">
@@ -99,14 +99,14 @@ const ContactPage = () => {
             <MDBRow className="text-center blue-text">
               <MDBCol md="4">
                   <MDBIcon icon="map-marker" />
-                <p>San Antonio, TX</p>
+                <p>Salt Lake City, Utah</p>
               </MDBCol>
               <MDBCol md="4">
                   <MDBIcon icon="phone" />
-                <p>+1 (210) 123 456</p>
+                <p>+1 (801) 815 4571</p>
               </MDBCol>
               <MDBCol md="4">
-                <MDBIcon icon="envelope" />                <p className="mb-md-0">admin@yourdomainname.com</p>
+                <MDBIcon icon="envelope" />                <p className="mb-md-0">jeremyretamararrieta@gmail.com</p>
               </MDBCol>
             </MDBRow>
           </MDBCol>

@@ -9,7 +9,7 @@ import {
   MDBContainer,
   Animation
 } from 'mdbreact'
-import backgroundImage from '../images/background.jpg'
+import backgroundImage from '../images/vortex.png'
 
 const divStyle = {
   marginTop: '66px'
@@ -35,11 +35,11 @@ const VideoBackground = () => {
             <MDBRow>
               <MDBCol md="12" className="white-text text-center">
                 <h1 className="h1-responsive font-weight-bold mb-0">
-                  Full Page Hero
+                Hire me
                 </h1>
                 <hr className="hr-light w-75" />
                 <h3 className="h3-responsive">
-                  Call to action copy text
+                  
                 </h3>
                 <Animation type="rubberBand" duration="2s">
                   <MDBBtn
