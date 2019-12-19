@@ -21,15 +21,15 @@ class FooterPage extends React.Component {
                 </h6>
               </MDBCol>
               <MDBCol md="6" lg="7" className="text-center text-md-right">
-                <a className="gh-ic ml-0" href="https://github.com">
+                <a className="gh-ic ml-0" href="https://github.com/JeremyRetamarArrieta">
                   <i className="fab fa-github black-text mr-4"> </i>
                 </a>
-                <a className="tw-ic" href="https://twitter.com">
+                <a className="tw-ic" href="https://twitter.com/RetamarArrieta">
                   <i className="fab fa-twitter black-text mr-4"> </i>
                 </a>
                 <a
                   className="li-ic"
-                  href="https://linkedin.com"
+                  href="ttps://www.linkedin.com/in/jeremy-retamar-arrieta-63672785/"
                 >
                   <i className="fab fa-linkedin black-text mr-4"> </i>
                 </a>
