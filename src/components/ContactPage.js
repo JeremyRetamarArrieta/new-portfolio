@@ -87,7 +87,7 @@ const ContactPage = () => {
               className="rounded z-depth-1-half map-container"
               style={{ height: '400px' }}>
               <iframe
-                src="https://www.google.com/maps/embed/v1/place?key=AIzaSyAFwsa8YOgtVE5FKUuk1I7qJXC-UqylQpw"
+                src='https://www.google.com/maps/embed/v1/place?key='
                 title="This is a unique title"
                 width="100%"
                 height="100%"
