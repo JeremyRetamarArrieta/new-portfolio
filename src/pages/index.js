@@ -15,7 +15,7 @@ const IndexPage = () => (
         content="Static single page web app template built with React, MDBootstrap, and Gatsby"
       />
       <meta name="keywords" content="React, Bootstrap, Gatsby, Material Design, Template" />
-      <meta name="author" content="Jacob Cavazos" />
+      <meta name="author" content="Jeremy Retamar Arrieta" />
       <link rel="canonical" href="" />
     </Helmet>
     <NavPage />

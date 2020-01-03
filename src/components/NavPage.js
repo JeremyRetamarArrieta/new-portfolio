@@ -39,13 +39,13 @@ class NavPage extends Component {
             <MDBCollapse id="navbarCollapse" isOpen={this.state.collapseID} navbar>
               <MDBNavbarNav left>
                 <MDBNavItem>
-                  <TwitterModalPage />
+                  
                 </MDBNavItem>
                 <MDBNavItem>
-                  <BlogModalPage />
+                  
                 </MDBNavItem>
                 <MDBNavItem>
-                  <ContactModalPage />
+                  
                 </MDBNavItem>
               </MDBNavbarNav>
               <MDBNavbarNav right>
